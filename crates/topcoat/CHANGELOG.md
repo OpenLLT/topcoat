@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.4](https://github.com/tokio-rs/topcoat/compare/topcoat-v0.1.3...topcoat-v0.1.4) - 2026-07-18
+
+### Other
+
+- add documentation for topcoat-ui ([#130](https://github.com/tokio-rs/topcoat/pull/130))
+
 ## [0.1.3](https://github.com/tokio-rs/topcoat/compare/topcoat-v0.1.2...topcoat-v0.1.3) - 2026-07-17
 
 ### Other
